@@ -3,6 +3,7 @@
   font-size: 70px;
 }
 .s1{
+  background-color: #999999;
 border: 1px solid black;
 float: left;
 width: 25%;
@@ -11,7 +12,7 @@ width: 25%;
 }
 .s1 p {
   background-color: #d59898;
-  border: 2px solid #d59898;
+  border: 1px solid black;
   margin-top: -20px;
   padding: 0px;
   text-align: center;
@@ -22,7 +23,7 @@ width: 25%;
 }
 .s2 p {
   BACKGROUND-color: #c14543;
-  border: 2px solid #c14543;
+  border: 1px solid black;
   margin-top: -20px;
   padding: 0px;
   text-align: center;
@@ -33,7 +34,7 @@ width: 25%;
 }
 .s3 p {
   background-color: #e5d198;
-  border: 2px solid #e5d198;
+  border: 1px solid black;
   margin-top: -20px;
   padding: 0px;
   text-align: center;
@@ -43,6 +44,7 @@ width: 25%;
   left: 72%;
 }
 .s2{
+    background-color: #999999;
 border: 1px solid black;
 float: left;
 width: 25%;
@@ -50,6 +52,7 @@ width: 25%;
     margin: 20px;
 }
 .s3{
+    background-color: #999999;
 border: 1px solid black;
 float: left;
 width: 25%;
@@ -59,5 +62,6 @@ width: 25%;
 *{
 box-sizing: border-box;
 }
+
 
 
