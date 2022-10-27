@@ -3,59 +3,58 @@
   font-size: 70px;
 }
 .s1{
-  background-color: #999999;
 border: 1px solid black;
 float: left;
-width: 25%;
+width: 30%;
      PADDING: 20px;
-    margin: 20px;
+    margin: 15px;
 }
 .s1 p {
   background-color: #d59898;
-  border: 1px solid black;
+  border: 2px solid #d59898;
   margin-top: -20px;
   padding: 0px;
   text-align: center;
   width: 80px;
-  position: relative;
-  left: 72%;
+  position:
+  relative;
+  left: 77%;
 }
 .s2 p {
-  color: white;
   BACKGROUND-color: #c14543;
-  border: 1px solid black;
+  border: 2px solid #c14543;
   margin-top: -20px;
   padding: 0px;
   text-align: center;
   width: 80px;
-  position: relative;
-  left: 72%;
+  position:
+  relative;
+  left: 77%;
 }
 .s3 p {
   background-color: #e5d198;
-  border: 1px solid black;
+  border: 2px solid #e5d198;
   margin-top: -20px;
   padding: 0px;
   text-align: center;
   width: 80px;
-  position: relative;
-  left: 72%;
+  position:
+  relative;
+  left: 77%;
 }
 .s2{
-    background-color: #999999;
 border: 1px solid black;
 float: left;
-width: 25%;
+width: 30%;
     PADDING: 20px;
-    margin: 20px;
+    margin: 15px;
 }
 .s3{
-    background-color: #999999;
 border: 1px solid black;
 float: left;
-width: 25%;
+width: 30%;
      PADDING: 20px;
-    margin: 20px;
+    margin: 15px;
 }
 *{
 box-sizing: border-box;
