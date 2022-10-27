@@ -17,19 +17,18 @@ width: 25%;
   padding: 0px;
   text-align: center;
   width: 80px;
-  position:
-  relative;
+  position: relative;
   left: 72%;
 }
 .s2 p {
+  color: white;
   BACKGROUND-color: #c14543;
   border: 1px solid black;
   margin-top: -20px;
   padding: 0px;
   text-align: center;
   width: 80px;
-  position:
-  relative;
+  position: relative;
   left: 72%;
 }
 .s3 p {
@@ -39,8 +38,7 @@ width: 25%;
   padding: 0px;
   text-align: center;
   width: 80px;
-  position:
-  relative;
+  position: relative;
   left: 72%;
 }
 .s2{
