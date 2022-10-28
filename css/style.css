@@ -1,10 +1,11 @@
+edia(min-width:992px){
 .title{
   text-align: center;
   font-size: 70px;
 }
 .s1{
   background-color: #999999;
-border: 1px solid black;
+border: 2px solid black;
 float: left;
 width: 30%;
      PADDING: 20px;
@@ -13,7 +14,7 @@ width: 30%;
 .s1 p {
   background-color: #d59898;
   border: 2px solid black;
-  margin-top: -20px;
+  margin-top: -22px;
   padding: 0px;
   text-align: center;
   width: 80px;
@@ -25,7 +26,7 @@ width: 30%;
   color: white;
   BACKGROUND-color: #c14543;
   border: 2px solid black;
-  margin-top: -20px;
+  margin-top: -22px;
   padding: 0px;
   text-align: center;
   width: 80px;
@@ -36,7 +37,7 @@ width: 30%;
 .s3 p {
   background-color: #e5d198;
   border: 2px solid black;
-  margin-top: -20px;
+  margin-top: -22px;
   padding: 0px;
   text-align: center;
   width: 80px;
@@ -46,7 +47,7 @@ width: 30%;
 }
 .s2{
   background-color: #999999;
-border: 1px solid black;
+border: 2px solid black;
 float: left;
 width: 30%;
     PADDING: 20px;
@@ -54,7 +55,7 @@ width: 30%;
 }
 .s3{
   background-color: #999999;
-border: 1px solid black;
+border: 2px solid black;
 float: left;
 width: 30%;
      PADDING: 20px;
@@ -63,6 +64,75 @@ width: 30%;
 *{
 box-sizing: border-box;
 }
+}
+@media(max-width:767px){
 
-
-
+.title{
+  text-align: center;
+  font-size: 30px;
+}
+.s1{
+  background-color: #999999;
+border: 2px solid black;
+float: left;
+width: 70%;
+     PADDING: 20px;
+    margin: 35px;
+  margin-left: 50px;
+}
+.s1 p {
+  background-color: #d59898;
+  border: 2px solid black;
+  margin-top: -22px;
+  padding: 0px;
+  text-align: center;
+  width: 80px;
+  position:
+  relative;
+  left: 73%;
+}
+.s2 p {
+  color: white;
+  BACKGROUND-color: #c14543;
+  border: 2px solid black;
+  margin-top: -22px;
+  padding: 0px;
+  text-align: center;
+  width: 80px;
+  position:
+  relative;
+  left: 73%;
+}
+.s3 p {
+  background-color: #e5d198;
+  border: 2px solid black;
+  margin-top: -20px;
+  padding: 0px;
+  text-align: center;
+  width: 80px;
+  position:
+  relative;
+  left: 73%;
+}
+.s2{
+  background-color: #999999;
+border: 2px solid black;
+float: left;
+width: 70%;
+    PADDING: 20px;
+    margin: 35px;
+  margin-left: 50px;
+}
+.s3{
+  background-color: #999999;
+border: 2px solid black;
+float: left;
+width: 70%;
+     PADDING: 20px;
+    margin: 35px;
+  margin-left: 50px;
+}
+*{
+box-sizing: border-box;
+}
+}
