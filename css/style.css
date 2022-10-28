@@ -1,3 +1,4 @@
+/* desktop version*/
 @media(min-width:992px){
 .title{
   text-align: center;
@@ -66,6 +67,7 @@ width: 300px;
 box-sizing: border-box;
 }
 }
+/*phone version*/
 @media(max-width:767px){
 
 .title{
@@ -134,6 +136,7 @@ width: 300px;
 box-sizing: border-box;
 }
 }
+/*tablet version*/
 @media(min-width:768px) and (max-width:991px){
 
 .title{
