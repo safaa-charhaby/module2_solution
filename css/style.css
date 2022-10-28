@@ -9,8 +9,7 @@ border: 2px solid black;
 float: left;
 width: 300px;
      PADDING: 20px;
-    margin: 5%;
-  margin-left: 8%;
+    margin-top: 10%;
 }
 .s1 p {
   background-color: #d59898;
@@ -51,8 +50,8 @@ border: 2px solid black;
 float: left;
 width: 300px;
     PADDING: 20px;
-    margin: 5%;
-   margin-left: 1.9%;
+margin-top: 10%;
+   margin-left: 10px;
 }
 .s3{
   background-color: #999999;
@@ -60,8 +59,8 @@ border: 2px solid black;
 float: left;
 width: 300px;
      PADDING: 20px;
-    margin: 5%;
-   margin-left: 1.9%;
+  margin-top: 10%;
+   margin-left: 10px;
 }
 *{
 box-sizing: border-box;
