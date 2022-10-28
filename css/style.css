@@ -1,4 +1,4 @@
-edia(min-width:992px){
+@media(min-width:992px){
 .title{
   text-align: center;
   font-size: 70px;
